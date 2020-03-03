@@ -26,11 +26,12 @@
 
 
 
+## 三、其他学习资料
 
-
-
-
-
+- [Redis 命令参考](http://redisdoc.com/index.html)
+- [Redis 多机特性工作原理简介——黄健宏](https://www.chinahadoop.cn/course/31)
+- [黄建宏大佬的github](https://github.com/huangz1990)
+- [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 
 
 
